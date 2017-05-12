@@ -44,4 +44,5 @@ response获取到的txt解析然后获取其中内容并放置到mysql中.
 
 3. 如果有任何问题可以在issue里面提出，或者直接mail我。如果看到我会解决你的一些问题。
 
-## 本文转自[King-slayer](https://github.com/King-slayer/crawl_wechat)
+##本文转载  
+[King-slayer](https://github.com/King-slayer/crawl_wechat)
